@@ -1,0 +1,15 @@
+body{background-color: pink;}
+
+.form{
+border-color: red;
+border-width:8px ;
+border-style:solid ;
+}
+label{
+    font-weight: bold;
+}
+
+th{
+    font-size: 30px;
+    padding-bottom: 20px;
+}
